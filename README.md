@@ -1,3 +1,2 @@
 # CourseraIBM
-Coursera IBM
-Testing repository
+Open the Final Assignment file.
